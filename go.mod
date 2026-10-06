@@ -20,7 +20,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.21.0
 	github.com/onsi/gomega v1.35.1
 	github.com/zclconf/go-cty v1.13.3
-	golang.org/x/crypto v0.46.0
+	golang.org/x/crypto v0.52.0
 	k8s.io/api v0.31.6
 	k8s.io/apimachinery v0.32.2
 	k8s.io/client-go v12.0.0+incompatible
